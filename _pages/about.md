@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: "Kai Malcolm"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Kai Malcolm
+<!-- Kai Malcolm -->
 
 I am a 4th-year Ph.D. student in Electrical and Computer Engineering at **Rice University**, where I am a member of [Dr. Momona Yamagami's research group](https://yamagami.rice.edu/). 
 
