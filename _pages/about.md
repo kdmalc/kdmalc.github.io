@@ -25,11 +25,11 @@ Prior to Rice, I earned my Bachelor of Engineering (B.E.) in Mechanical Engineer
 ---
 
 ### News
-* **[March 2026]**: My journal paper "Federated Learning in Offline and Online EMG Decoding: A Privacy and Performance Perspective" was accepted to IEEE Transcations on Neural Systems and Rehabilitation Engineering (TNSRE).
+* **[March 2026]**: My journal paper "Federated Learning in Offline and Online EMG Decoding: A Privacy and Performance Perspective" was accepted to IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE).
 * **[December 2024]**: I successfully defended my M.S. Thesis on applying federated learning to EMG decoding.
 
 ### Selected Publications
 * **Federated Learning in Offline and Online EMG Decoding: A Privacy and Performance Perspective** *Kai Malcolm*, Cesar Uribe, Momona Yamagami.  
-    *IEEE TNSRE, 2026.* [[Link]]()
+    *IEEE TNSRE, 2026.* [[Link]](https://ieeexplore.ieee.org/document/11435220)
 
 ---
