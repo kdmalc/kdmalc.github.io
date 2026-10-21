@@ -188,6 +188,7 @@ exclude:
   - node_modules
   - package.json*
   - Rakefile
+  - TODO.md
   - README
   - tmp
   - vendor
